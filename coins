@@ -17764,5 +17764,26 @@
       "explorer": "https://explorer.jumpcoin.net",
       "github": "https://github.com/jumpcoin"
     }
+  },
+  {
+    "coin": "UNTT",
+    "name": "unitatem",
+    "fname": "Unitatem",
+    "sign_message_prefix": "Unitatem Signed Message:\n",
+    "rpcport": 9176,
+    "pubtype": 68,
+    "p2shtype": 50,
+    "wiftype": 176,
+    "decimals": 8,
+    "signature_version": "base",
+    "txfee": 200000,
+    "segwit": true,
+    "bech32_hrp": "untt",
+    "mm2": 1,
+    "required_confirmations": 6,
+    "avg_blocktime": 77,
+    "protocol": {
+      "type": "UTXO"
+    }
   }
 ]
