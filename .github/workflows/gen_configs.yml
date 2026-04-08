@@ -69,5 +69,5 @@ jobs:
             - Icon spritemap updated
           labels: |
             config-update
-          reviewers: cipig
+          reviewers: MerlinMagic2018
           draft: false
