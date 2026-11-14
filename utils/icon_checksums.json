@@ -1938,5 +1938,9 @@
   "zchf.png": {
     "original": "0c249b737ddd1e0f7aab356d4c25d7a7c37ee27501a0ce7b335a54eb300e9eac",
     "processed": "9491d4ef2f7dbb347883008ad1687862978bee87c7bb8975d4a37ece36cceb68"
+  },
+  "untt.png": {
+    "original": "5a7daf7090306edda6802c571857668ecb0ad32ed7848685d25200b67efbabc9",
+    "processed": "831e90993405a7a2a9948ff0ce545e6d7e7c7a9ce6ece40c53d6fd16db300a29"
   }
 }
